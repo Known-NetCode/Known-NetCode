@@ -1,26 +1,27 @@
 
 itch page: [Click Here](https://known-yt.itch.io/)
 
-#About Me:
+
+# About Me:
 
 Hey I'm Known I made my name a verb to confuse people, I've been a game developer for around 6 years now
 
 I wanted to move to unity until I finally got out of the tutorial loop and actually started learning how to use my game engine (Which is Godot by the way) and I realized just how much I could actually manipulate Godot to what I needed essentially Godot is like clay and I'm the artist. I can make Godot the perfect tool for me, Especially now that I know how to create and manipulate all sorts of Godot files (like *.tscn)
 Some Project I've made
 
-##Parasitic:
+## Parasitic:
 
-In 2024 in march I made a game for the 67#  GDJ (Godot Wile Jam) [This Jam](https://itch.io/jam/godot-wild-jam-67)
+In 2024 in march I made a game for the 67#  GDJ (Godot Wild Jam) [This Jam](https://itch.io/jam/godot-wild-jam-67)
 
 It was at that point that I actually started to learn my engine properly
 
 I ranked 13th out of 151 submissions
 
-I liked the game and will probably make another one but better but not soon
+I liked the game and will probably make another one but better, but not soon
 
 If you do play it warning, It gets laggy after round 15 and I tried to make the game infinite but it stops after round 30
 
-##Upcoming Projects
+## Upcoming Projects
 
 I am currently working on two things at the moment
 
